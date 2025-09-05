@@ -1,1 +1,5 @@
 # fish-weight-predictor
+streamlit
+pandas
+scikit-learn
+joblib
